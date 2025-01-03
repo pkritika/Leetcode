@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/pkritika/Leetcode/tree/master/0817-design-hashmap) |
+## Math
+|  |
+| ------- |
+| [1119-robot-bounded-in-circle](https://github.com/pkritika/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+## String
+|  |
+| ------- |
+| [1119-robot-bounded-in-circle](https://github.com/pkritika/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+## Simulation
+|  |
+| ------- |
+| [1119-robot-bounded-in-circle](https://github.com/pkritika/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 <!---LeetCode Topics End-->
