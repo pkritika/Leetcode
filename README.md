@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/pkritika/Leetcode/tree/master/0817-design-hashmap) |
+| [2665-minimum-time-to-repair-cars](https://github.com/pkritika/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1119-robot-bounded-in-circle](https://github.com/pkritika/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+## Binary Search
+|  |
+| ------- |
+| [2665-minimum-time-to-repair-cars](https://github.com/pkritika/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 <!---LeetCode Topics End-->
