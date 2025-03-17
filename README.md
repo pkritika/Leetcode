@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/pkritika/Leetcode/tree/master/0817-design-hashmap) |
+| [2308-divide-array-into-equal-pairs](https://github.com/pkritika/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/pkritika/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/pkritika/Leetcode/tree/master/0817-design-hashmap) |
+| [2308-divide-array-into-equal-pairs](https://github.com/pkritika/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2665-minimum-time-to-repair-cars](https://github.com/pkritika/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/pkritika/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/pkritika/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
