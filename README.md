@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0817-design-hashmap](https://github.com/pkritika/Leetcode/tree/master/0817-design-hashmap) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pkritika/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/pkritika/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/pkritika/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/pkritika/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/pkritika/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Counting
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/pkritika/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/pkritika/Leetcode/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
